@@ -1,0 +1,6 @@
+.operations {
+  display: grid;
+  grid-area: operations;
+  grid-template-rows: auto;
+  height: 100%;
+}

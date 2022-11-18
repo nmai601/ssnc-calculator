@@ -1,0 +1,13 @@
+.main {
+  grid-area: main;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.clear {
+  background-color: #812b2b;
+}
+
+.equal {
+  background-color: #3a51c5;
+}
